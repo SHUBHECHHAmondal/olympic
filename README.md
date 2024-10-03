@@ -34,20 +34,20 @@ streamlit run app.py
 
 ## APPLICATION OVERVIEW
 
-1. Medal Tally
+### 1. Medal Tally
 Users can filter the medal tally by year and country.  
 Displays the total medals won in the selected year and country.  
 
-2.Overall Analysis  
+### 2.Overall Analysis  
 View top statistics: number of editions, host cities, sports, events, athletes, and participating nations.  
 Visualize the number of participating nations, events, and athletes over time.  
 Heatmap of the number of events for each sport over time.  
 List of the most successful athletes in the selected sport.  
-3.Country-wise Analysis  
+### 3.Country-wise Analysis  
 Visualize the medal tally of a specific country over time.  
 Heatmap showing the sports in which the selected country excels.  
 List of the top 10 athletes from the selected country.  
-4.Athlete-wise Analysis
+### 4.Athlete-wise Analysis
 Distribution of athletes' ages across all medalists (Gold, Silver, and Bronze).  
 Age distribution of gold medalists in different sports.  
 Scatter plot showing the relationship between height and weight of athletes, categorized by medal type and gender.  
