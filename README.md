@@ -57,15 +57,24 @@ Participation trends of male and female athletes over the years.
 ## Helper Functions  
 The helper.py script contains all the necessary functions to preprocess the data and extract insights for visualization.    
 
-### preprocess(): Prepares the dataset by merging athlete_events.csv and noc_regions.csv.  
-### fetch_medal_tally(): Retrieves the medal tally for a given year and country.  
-### data_over_time(): Plots the trends of nations, events, and athletes over time.  
-### most_successful(): Returns a list of the most successful athletes.  
-### yearwise_medal_tally(): Returns the medal tally for a specific country over time.  
-### country_event_heatmap(): Creates a heatmap of the sports in which a country excels.  
-### most_successful_countrywise(): Returns a list of the top athletes of a specific country.  
-### weight_v_height(): Returns a dataset for visualizing the height vs weight scatter plot.  
-### men_vs_women(): Plots the participation trends of male and female athletes over time.  
+### preprocess():
+Prepares the dataset by merging athlete_events.csv and noc_regions.csv.   
+### fetch_medal_tally(): 
+Retrieves the medal tally for a given year and country.    
+### data_over_time(): 
+Plots the trends of nations, events, and athletes over time.    
+### most_successful(): 
+Returns a list of the most successful athletes.    
+### yearwise_medal_tally(): 
+Returns the medal tally for a specific country over time.    
+### country_event_heatmap(): 
+Creates a heatmap of the sports in which a country excels.    
+### most_successful_countrywise(): 
+Returns a list of the top athletes of a specific country.    
+### weight_v_height(): 
+Returns a dataset for visualizing the height vs weight scatter plot.    
+### men_vs_women(): 
+Plots the participation trends of male and female athletes over time.  
 
 
 
